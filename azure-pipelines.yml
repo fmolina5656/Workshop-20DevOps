@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'd257af74-1e01-43b8-9fb2-73e09c9f3dee'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'workshopdevops'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'workshopdevops'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
