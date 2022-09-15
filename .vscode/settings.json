@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/330e0933-80c8-4fab-8f8b-59c6d5cb44a2/microsoft.web/sites/subscriptions/330e0933-80c8-4fab-8f8b-59c6d5cb44a2/resourceGroups/Demo-Edenor/providers/Microsoft.Web/sites/DemoDevOpsEnersa",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
