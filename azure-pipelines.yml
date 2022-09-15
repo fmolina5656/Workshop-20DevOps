@@ -12,13 +12,13 @@ variables:
   azureSubscription: 'd257af74-1e01-43b8-9fb2-73e09c9f3dee'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'DemoDevOpsEnersa'
 
   # Environment name
   environmentName: ''
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'windows-2019'
 
 stages:
 - stage: Build
