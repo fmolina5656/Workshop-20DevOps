@@ -15,7 +15,7 @@ variables:
   webAppName: 'DemoDevOpsEnersa'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'DemoDevOpsEnersa'
 
   # Agent VM image name
   vmImageName: 'windows-2019'
